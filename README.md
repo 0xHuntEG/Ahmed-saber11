@@ -12,6 +12,6 @@
   
   My name is Ahmed I'm a security researcher specialized in finding web applications vulnerabilities with over 2 years of experience in the information security field.
 
-- 🔭 I’m currently working  **as a penetration tester freelance , and part time bug hunter**
+- 🔭 I’m currently working  as a **penetration tester freelance , and part time bug hunter**
 - 🌱 I’m currently learning **Mobile Pentesing**
 - 💬 Ask me about **web, network, mobile pentesting**
