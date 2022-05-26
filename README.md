@@ -6,7 +6,6 @@
     <a href="https://www.youtube.com/channel/UCDUEFf1srDkHZizCG6j4V5Q"><img src="https://img.shields.io/badge/youtube-%23FF0000?style=flat&logo=youtube&logoColor=white"/></a>
     <a href="https://www.instagram.com/0x0hunter/"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
   </p>
-    <img src="https://github.com/Ahmed-saber11/Ahmed-saber11/blob/main/ahmed.jpg" align="right" width="25%"/>
 
   <h3 align="center">Penetration Tester && Cybersecurity Engineer</h3>
 
