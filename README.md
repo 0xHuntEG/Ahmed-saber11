@@ -12,4 +12,3 @@
 - 🔭 I’m currently working on as a penetration tester freelance , and part time bug hunter
 - 🌱 I’m currently learning Mobile Pentesing
 - 💬 Ask me about web, network, mobile pentesting
--->
