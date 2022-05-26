@@ -5,6 +5,9 @@
     <a href="https://www.youtube.com/channel/UCDUEFf1srDkHZizCG6j4V5Q"><img src="https://img.shields.io/badge/youtube-%23FF0000?style=flat&logo=youtube&logoColor=white"/></a>
     <a href="https://www.instagram.com/0x0hunter/"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
   </p>
+  
+  
+  My name is Ahmed I'm a security researcher specialized in finding web applications vulnerabilities with over 2 years of experience in the information security field.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
